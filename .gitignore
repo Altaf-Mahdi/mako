@@ -84,3 +84,9 @@ GTAGS
 *.orig
 *~
 \#*#
+Packages/
+kernel/usr/
+mkbootfs
+mkbootimg
+build-mahdi-exp.sh
+build-mahdi-stable.sh
